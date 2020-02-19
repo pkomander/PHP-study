@@ -1,0 +1,1 @@
+tag de impressão serve para imprimir o conteudo de uma variavel. Porem tambem podem ser usadas as tags de abertura em PHP com <?php echo ou print $variavel ?>
